@@ -1,16 +1,4 @@
 # calculator_app
 
-A new Flutter project.
+![WhatsApp Image 2024-12-10 at 5 42 55 PM](https://github.com/user-attachments/assets/38211858-d34a-4d70-bca9-67bdeb835558)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
